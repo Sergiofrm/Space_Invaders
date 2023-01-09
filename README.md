@@ -6,4 +6,4 @@
 
 ###
 
-<h2>Link do jogo: <a href="https://spaceinvaderss.vercel.app/" target="_blank">https://spaceinvaderss.vercel.app/</a></h2>
+<h3>Link do jogo: <a href="https://space-invaders-e7y08pdaw-sergiofrm.vercel.app/" target="_blank">https://space-invaders-e7y08pdaw-sergiofrm.vercel.app/</a></h3>
